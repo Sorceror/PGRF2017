@@ -1,0 +1,3 @@
+theme-override : assets/css.css
+background-size : auto
+revealjs: 3.4.1
