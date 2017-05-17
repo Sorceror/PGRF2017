@@ -119,16 +119,6 @@ Pakování dat - 1 float obsahuje více proměnných o menším rozsahu
 
 ---
 
-# Virtual Beam Lines
-
----?image=assets/eli_budova.jpg
-
----?image=assets/eli_l4.jpg
-
----?image=assets/eli_e3.jpg
-
----
-
 ### ELI Beamlines
 
 Součástí evropského projektu Extreme Light Infrastructure
@@ -136,6 +126,16 @@ Součástí evropského projektu Extreme Light Infrastructure
 Několik pracovišť na území České republiky, Maďarska a Rumunska
 
 Zkoumáním interakce světla s hmotou při nejvyšších intenzitách a nejkratších časových rozpětích
+
+---
+
+# Virtual Beam Lines
+
+---?image=assets/eli_budova.jpg
+
+---?image=assets/eli_l4.jpg
+
+---?image=assets/eli_e3.jpg
 
 ---
 
@@ -181,7 +181,7 @@ WebGL - částečný model
 
 Bounding volume hierarchy, LOD
 
-Casticove systemy, raytracing pro vypočet cesty paprsku, volume rendering pro vysledky PIC (Particle in cell) simulací, řešení průhlednosti, ...
+Částicové systémy, raytracing pro vypočet cesty paprsku, volume rendering pro výsledky PIC (Particle in cell) simulací, řešení průhlednosti, ...
 
 ---?image=assets/vr_logo.jpg
 
