@@ -48,11 +48,11 @@ Uživatelsky přívětivý nástroj pro design místností (koupelen) se zaměř
 Napojení na 3D Warehouse umožňuje stahovat Sketchup modely
  - desítky až stovky tisíc polygonů na objekt
 
----?image=assets/design_tool_0.jpg
+---?image=assets/design_tool_0.png
 
 ---?image=assets/design_tool_1.png
 
----?image=assets/design_tool_2.jpg
+---?image=assets/design_tool_2.png
 
 ---?image=assets/design_tool_3.png
 
@@ -129,7 +129,7 @@ Součástí evropského projektu ELI (Extreme Light Infrastructure)
 
 Několik pracovišť na území České republiky, Maďarska a Rumunska
 
-Zkoumáním interakce světla s hmotou při nejvyšších intenzitách a nejkratších časových rozpětích
+Zkoumání interakce světla s hmotou při nejvyšších intenzitách a nejkratších časových rozpětích
 
 ---?image=assets/eli_budova.jpg
 
@@ -142,7 +142,7 @@ Zkoumáním interakce světla s hmotou při nejvyšších intenzitách a nejkrat
 ### Cíle Virtual Beam Line projektu
 
 - Designér experimentů
-- Nástroj pro vzdělávání (studentů, bezpečnosti práce)
+- Nástroj pro vzdělávání (studentů, bezpečnost práce)
 - Součást PR pro veřejnost
 
 ---
@@ -155,6 +155,8 @@ Zkoumáním interakce světla s hmotou při nejvyšších intenzitách a nejkrat
 - Historie experimentů s možností nahrát i několik let starou verzi
 - Propojení s reálnou konfigurací
 - Zobrazení výsledků experimentů (simulace, reálné)
+
+---?image=assets/eli_model.jpg
 
 ---
 
@@ -181,7 +183,7 @@ WebGL - částečný model
 
 Bounding volume hierarchy, LOD
 
-Částicové systémy, raytracing pro vypočet cesty paprsku, volume rendering pro výsledky PIC (Particle in cell) simulací, řešení průhlednosti, ...
+Částicové systémy, raytracing pro vypočet cesty paprsku, volume rendering pro výsledky PIC (Particle In Cell) simulací, řešení průhlednosti, ...
 
 ---?image=assets/vr_logo.jpg
 
