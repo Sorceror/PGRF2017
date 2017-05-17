@@ -42,28 +42,20 @@ přepsat či refaktorovat ?
 
 ---?image=assets/legacy_code.jpg
 
----
 ### Zneužití uživateli
 Uživatelsky přívětivý nástroj pro design místností (koupelen) se zaměřením na rozmístění kachlíků
 
 Napojení na 3D Warehouse umožňuje stahovat Sketchup modely
  - desítky až stovky tisíc polygonů na objekt
 
----?image=assets/design_tool_0.png
-
----
+---?image=assets/design_tool_0.jpg
 
 ---?image=assets/design_tool_1.png
 
----
+---?image=assets/design_tool_2.jpg
 
----?image=assets/design_tool_2.png
+---?image=assets/design_tool_3.jpg
 
----
-
----?image=assets/design_tool_3.png
-
----
 ### Java a certifikáty
 Operační systém obsahuje seznam důvěryhodných certifikačních autorit
 
