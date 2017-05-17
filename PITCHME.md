@@ -121,11 +121,11 @@ Pakování dat - 1 float obsahuje více proměnných o menším rozsahu
 
 # Virtual Beam Lines
 
----?image=assets/eli_budova.png
+---?image=assets/eli_budova.jpg
 
----?image=assets/eli_l4.png
+---?image=assets/eli_l4.jpg
 
----?image=assets/eli_e3.png
+---?image=assets/eli_e3.jpg
 
 ---
 
