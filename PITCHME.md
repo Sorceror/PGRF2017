@@ -1,8 +1,6 @@
-## Tilelook | VBL | VR/AR
+## Tilelook  |  VBL  |  VR/AR
 
----
-
-# Tilelook Design Tool
+---?image=assets/tilelook_logo.jpg
 
 ---
 
@@ -117,6 +115,8 @@ Detekce a vyhlazovaní hran
 
 Pakování dat - 1 float obsahuje více proměnných o menším rozsahu
 
+---?image=assets/vbl_logo.jpg
+
 ---
 
 # Virtual Beam Lines
@@ -182,6 +182,8 @@ WebGL - částečný model
 Bounding volume hierarchy, LOD
 
 Casticove systemy, raytracing pro vypočet cesty paprsku, volume rendering pro vysledky PIC (Particle in cell) simulací, řešení průhlednosti, ...
+
+---?image=assets/vbl_logo.jpg
 
 ---
 
