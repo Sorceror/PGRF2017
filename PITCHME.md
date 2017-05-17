@@ -115,7 +115,7 @@ Detekce a vyhlazovaní hran
 
 Pakování dat - 1 float obsahuje více proměnných o menším rozsahu
 
----?image=assets/vbl_logo.jpg
+---?image=assets/eli_logo.jpg
 
 ---
 
