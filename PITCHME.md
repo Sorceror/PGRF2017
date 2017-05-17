@@ -56,7 +56,7 @@ Napojení na 3D Warehouse umožňuje stahovat Sketchup modely
 
 ---?image=assets/design_tool_2.jpg
 
----?image=assets/design_tool_3.jpg
+---?image=assets/design_tool_3.png
 
 ---
 
