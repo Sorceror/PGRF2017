@@ -12,4 +12,4 @@
 - Asus EEE PC
   - Intel Atom 1.6GHz, Intel GMA 900, 1GB RAM, 1024x600, Windows XP
 
-+---?assets/asus_eee.jpg
+---?assets/asus_eee.jpg
