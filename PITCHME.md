@@ -44,4 +44,4 @@ přepsat či refaktorovat ?
 
 ---
 ### Zneužití uživateli
-- aaa
+Uživatelsky přívětivý nástroj pro design místností (koupelen) se zaměřením na rozmístění kachlíků
