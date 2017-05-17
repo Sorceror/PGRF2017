@@ -42,6 +42,8 @@ přepsat či refaktorovat ?
 
 ---?image=assets/legacy_code.jpg
 
+---
+
 ### Zneužití uživateli
 Uživatelsky přívětivý nástroj pro design místností (koupelen) se zaměřením na rozmístění kachlíků
 
@@ -50,11 +52,19 @@ Napojení na 3D Warehouse umožňuje stahovat Sketchup modely
 
 ---?image=assets/design_tool_0.jpg
 
+---
+
 ---?image=assets/design_tool_1.png
+
+---
 
 ---?image=assets/design_tool_2.jpg
 
+---
+
 ---?image=assets/design_tool_3.jpg
+
+---
 
 ### Java a certifikáty
 Operační systém obsahuje seznam důvěryhodných certifikačních autorit
@@ -64,6 +74,7 @@ Java má svůj vlastní
 Aktualizační process založený na HTTPS komunikaci
 
 ---
+
 ### Výběr technologií
 
 Futures / promises
@@ -74,6 +85,7 @@ Futures / promises
  - JavaSlang
 
 ---
+
 ### Výběr technologií
 
 Vykreslování 3D náhledu
@@ -86,11 +98,13 @@ Vykreslování 3D náhledu
    - Bug v pohybu kamery (interní časovač?)
 
 ---
+
 ### OpenGL 2.1 limity
 
 Specifikace z roku 2006
 
 ---
+
 ### Java + OpenGL + Mac
 
 Ovladače se aktualizují až s aktualizací systému
@@ -104,6 +118,7 @@ Java
  - Veškeré GUI musí běžet ve Swing vlákně
 
 ---
+
 ### Zajímavé algoritmy
 
 PDF projektová dokumentace - obrys objektů (winged edge mesh, kd strom)
