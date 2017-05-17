@@ -119,17 +119,17 @@ Pakování dat - 1 float obsahuje více proměnných o menším rozsahu
 
 ---
 
+# Virtual Beam Lines
+
+---
+
 ### ELI Beamlines
 
-Součástí evropského projektu Extreme Light Infrastructure
+Součástí evropského projektu ELI (Extreme Light Infrastructure)
 
 Několik pracovišť na území České republiky, Maďarska a Rumunska
 
 Zkoumáním interakce světla s hmotou při nejvyšších intenzitách a nejkratších časových rozpětích
-
----
-
-# Virtual Beam Lines
 
 ---?image=assets/eli_budova.jpg
 
