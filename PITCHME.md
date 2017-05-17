@@ -183,7 +183,7 @@ Bounding volume hierarchy, LOD
 
 Casticove systemy, raytracing pro vypočet cesty paprsku, volume rendering pro vysledky PIC (Particle in cell) simulací, řešení průhlednosti, ...
 
----?image=assets/vbl_logo.jpg
+---?image=assets/vr_logo.jpg
 
 ---
 
