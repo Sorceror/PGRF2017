@@ -93,12 +93,6 @@ Vykreslování 3D náhledu
 
 ---
 
-### OpenGL 2.1 limity
-
-Specifikace z roku 2006
-
----
-
 ### Java + OpenGL + Mac
 
 Ovladače se aktualizují až s aktualizací systému
@@ -126,6 +120,12 @@ Pakování dat - 1 float obsahuje více proměnných o menším rozsahu
 ---
 
 # Virtual Beam Lines
+
+---?image=assets/eli_budova.png
+
+---?image=assets/eli_l4.png
+
+---?image=assets/eli_e3.png
 
 ---
 
