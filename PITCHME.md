@@ -9,8 +9,8 @@
 - 4GB > 8GB RAM
 - FullHD rozlišení 1980x1050
 - Operační systém Windows 7 / 10
----
 ---?image=assets/asus_eee.jpg
+---
 ### Extrémní PC
 - Asus EEE PC
   - Intel Atom 1.6GHz, Intel GMA 900, 1GB RAM, 1024x600, Windows XP
