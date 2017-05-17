@@ -13,3 +13,9 @@
   - Intel Atom 1.6GHz, Intel GMA 900, 1GB RAM, 1024x600, Windows XP
 
 ---?assets/asus_eee.jpg
+---
+- Intel Xeon (více fyzických jader)
+- nVidia GeForce 1080Ti
+- 32GB RAM
+- 4k rozlišení 3840x2160
+- Windows 10
