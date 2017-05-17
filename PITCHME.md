@@ -106,12 +106,10 @@ Java
 ---
 ### Zajímavé algoritmy
 
-PDF projektová dokumentace
- - obrys objektů (winged edge mesh, kd strom)
+PDF projektová dokumentace - obrys objektů (winged edge mesh, kd strom)
 
 Deffered rendering
 
 Detekce a vyhlazovaní hran
 
-Pakování dat
- - 1 float obsahuje více proměnných o menším rozsahu
+Pakování dat - 1 float obsahuje více proměnných o menším rozsahu
